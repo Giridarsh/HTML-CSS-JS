@@ -13,13 +13,22 @@ h2{
     color: rgb(1, 131, 29);
     background-color: rgb(237, 241, 248);
 }
+h3{
+    display: inline;
+    color: blue;
+    background-color: rgb(237, 241, 248);
+}
 li{
     display: inline;
-    color:gold;
+    color: gold;
     background-color: rgb(237, 241, 248);
 }
 button{
     display:inline;
-    color:red;
+    color: red;
     background-color: rgb(237, 241, 248);
+}
+div{
+    display: inline;
+    color: teal;
 }
