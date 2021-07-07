@@ -1,0 +1,25 @@
+h1{
+    display: inline;
+    color: rgb(255, 0, 0);
+    background-color: rgb(237, 241, 248);
+}
+p{
+    display: inline;
+    color:rgb(105, 44, 1);
+    background-color: rgb(237, 241, 248);
+}
+h2{
+    display: inline;
+    color: rgb(1, 131, 29);
+    background-color: rgb(237, 241, 248);
+}
+li{
+    display: inline;
+    color:gold;
+    background-color: rgb(237, 241, 248);
+}
+button{
+    display:inline;
+    color:red;
+    background-color: rgb(237, 241, 248);
+}
