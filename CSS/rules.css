@@ -1,12 +1,16 @@
 h1{
     color:aqua;
+    background-color: black;
 }
-
-img{
-    width:100px;
-    height:200px;
+label{
+    color: yellow;
+    background-color: teal;
 }
-
-input[type="text"]:nth-of-type(2n){
-    border:2px solid red;
+p{
+    color: tomato;
+    background-color: slategrey;
+}
+button{
+    color: magenta;
+    background-color: springgreen;
 }
