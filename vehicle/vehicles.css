@@ -1,0 +1,76 @@
+h1{
+    display: inline;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-weight:bold;
+    text-decoration: dotted underline green;
+}
+p{
+    display: inline;
+    color: chocolate;
+    font-weight:normal;
+    background-color: rgb(237, 241, 248);
+    letter-spacing: 2px;
+}
+h2{
+    display: inline;
+    color: rgb(64, 131, 1);
+    background-color: rgb(237, 241, 248);
+    text-decoration: dotted underline blue;
+}
+h3{
+    display: inline;
+    color: blue;
+    background-color: rgb(237, 241, 248);
+}
+li{
+    display: inline;
+    color: rgb(0, 207, 138);
+    background-color: rgb(237, 241, 248);
+}
+button{
+    display:inline;
+    color: rgb(255, 0, 0);
+    background-color: rgb(237, 241, 248);
+}
+div{
+    display: inline;
+    color: rgb(5, 167, 167);
+}
+h4{
+    display: inline;
+    color:rgb(252, 3, 3);
+}
+footer{
+    display: inline;
+    color:rgb(252, 3, 3);
+}
+section{
+    display: inline;
+    color:rgb(252, 3, 3);
+}
+a{
+    color:violet;
+}
+d{
+    color:indigo;
+}
+e{
+    color:blue;
+}
+f{
+    color:green;
+}
+g{
+    color:yellow;
+}
+j{
+    color:orange;
+}
+r{
+    color:red;
+}
+m{
+    color:#000000;
+    text-align: right;
+}
