@@ -196,10 +196,9 @@
             </ul>
             <h1>Booking & Enquries</h1><br><br><br>
             <form action="Booking for a Vehicle">
-                <form>
                 <div>
                     <label for="Username"><b>Enter your name : </b></label>
-                    <input type="text" placeholder="username" required name="username">
+                    <input type="text" placeholder="username" name="username"required>
                 </div>
                 <div>
                     <br><br><label for="email id"><b>Email ID : </b></label>
@@ -207,7 +206,7 @@
                 </div>
                 <div>
                     <br><br><label for="Mobile Number"><b>Enter your mobile number : </b></label>
-                    <input type="number" placeholder="mobile number" id="number" min="0000000000" max="9999999999" name="number"> 
+                    <input type="number" placeholder="mobile number" id="number" min="0000000000" max="9999999999" name="number" required> 
                 </div>
                 <div>
                     <br><br><label for="date"><b>Booking or Enquiry date : </b></label>
@@ -217,7 +216,6 @@
                     <br><br><label for="car"><b>Car</b></label>
                     <input type="radio" id="car" name="vehicle" value="car">
                 </div>
-                </form>
                 <div>
                     <br><label for="Seater"><b>Please select the type of seater</b></label>
                     <select name="cars" id="select the seaters">
@@ -256,16 +254,14 @@
                     <textarea id="requests" rows="5" cols="40" name="Requests?" placeholder="Type something here"></textarea>
                 </div>
                 <div>
-                    <form action="">
                         <br><label for="vehicle"><b>I agree to everything</b></label>
                         <input type="checkbox" name="vehicle" id="vehicle">
-                    </form>
                 </div>
                 <p>
                     <br><br><br><button>Register</button>
                 </p>
-                <hr>
             </form>
+                <hr>
         </main>
         <footer>
             This is my first example website
