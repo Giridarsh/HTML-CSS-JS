@@ -1,7 +1,10 @@
 h1{
     display: inline;
+    text-align: center;
     color: rgb(255, 0, 0);
     background-color: rgb(237, 241, 248);
+    font-weight:bold;
+    text-decoration: dotted underline green;
 }
 p{
     display: inline;
