@@ -5,6 +5,7 @@ h1{
     font-weight:bold;
     text-decoration: dotted underline green;
     font-size:30px;
+    font-family: Trebuchet MS;
 }
 p{
     display: inline;
@@ -46,7 +47,7 @@ footer{
     display: inline;
     color:rgb(252, 3, 3);
 }
-a{
+v{
     color:#000000;
     background-color:violet;
 }
@@ -75,7 +76,7 @@ r{
     background-color:rgb(255, 0, 0);
 }
 m{
-    color:#d1156d;
+    color:#000000;
     text-align: right;
 }
 section{
