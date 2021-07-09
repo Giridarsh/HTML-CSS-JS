@@ -4,6 +4,7 @@ h1{
     color: rgb(255, 0, 0);
     font-weight:bold;
     text-decoration: dotted underline green;
+    font-size:30px;
 }
 p{
     display: inline;
@@ -39,38 +40,46 @@ div{
 }
 h4{
     display: inline;
-    color:rgb(252, 3, 3);
+    color:black;
 }
 footer{
     display: inline;
     color:rgb(252, 3, 3);
 }
-section{
-    display: inline;
-    color:rgb(252, 3, 3);
-}
 a{
-    color:violet;
+    color:#000000;
+    background-color:violet;
 }
 d{
-    color:indigo;
+    color:#ffffff;
+    background-color:indigo;
 }
 e{
-    color:blue;
+    color:#000000;
+    background-color:blue;
 }
 f{
-    color:green;
+    color:#ffffff;
+    background-color:green;
 }
 g{
-    color:yellow;
+    color:#000;
+    background-color:yellow;
 }
 j{
-    color:orange;
+    color:#fff;
+    background-color:orange;
 }
 r{
-    color:red;
+    color:#000;
+    background-color:rgb(255, 0, 0);
 }
 m{
-    color:#000000;
+    color:#d1156d;
     text-align: right;
+}
+section{
+    display: inline;
+    color:rgb(0, 0, 0);
+    border: 2px red;
 }
