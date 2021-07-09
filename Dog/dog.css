@@ -24,3 +24,18 @@ h1{
     color:#9b2226;
     background-color: lightgrey;
 }
+#bs{
+    display: inline;
+    color:#5f0f40;
+    background-color: lightgray;
+}
+#tob{
+    display: inline;
+    color:#ff0a54;
+    background-color:black;
+}
+#ha{
+    display: inline;
+    color:#4361ee;
+    background-color: black;
+}
