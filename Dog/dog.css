@@ -78,7 +78,8 @@ h3 span{
     color:#87a330;
     background-color: black;
 }
-h2 i{
+.i{
     display: inline;
-    color:#3da35d;
+    color:black;
+    background-color: #3da35d;
 }
