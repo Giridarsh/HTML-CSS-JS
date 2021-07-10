@@ -54,3 +54,31 @@ h1{
     color:#aacc00;
     background-color: #000000;
 }
+#h{
+    display: inline;
+    color:#252422;
+    background-color:lightgreen ;
+}
+.d{
+    display: inline;
+    color:#f4a259;
+    background-color:darkblue ;
+}
+h3 span{
+    display: inline;
+    color:#db3a34;
+}
+#l{
+    display: inline;
+    color:#07c8f9;
+    background-color: black;
+}
+.rn{
+    display: inline;
+    color:#87a330;
+    background-color: black;
+}
+h2 i{
+    display: inline;
+    color:#3da35d;
+}
