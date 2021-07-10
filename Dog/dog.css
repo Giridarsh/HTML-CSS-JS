@@ -83,3 +83,13 @@ h3 span{
     color:black;
     background-color: #3da35d;
 }
+.b{
+    display: inline;
+    color:#ffd97d;
+    background-color: black;
+}
+#c{
+    display: inline;
+    color: yellow;
+    background-color: black;
+}
