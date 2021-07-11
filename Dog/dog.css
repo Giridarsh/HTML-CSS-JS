@@ -2,17 +2,21 @@ h1{
     display:inline;
     color:rgb(255, 196, 0);
     background-color: #000000;
-    text-align: center;
+    text-decoration: underline blue wavy;  
+    letter-spacing: 10px;
+    font-size: 80px;
 }
 #d{
     display: inline;
     color:#ca6702;
     background-color: #000000;
+    font-size: 45px;
 }
 #pop{
     display: inline;
     color:#bb3e03;
     background-color: rgb(0,0,0)
+    
 }
 #ev{
     display: inline;
