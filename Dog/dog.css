@@ -1,0 +1,98 @@
+h1{
+    display:inline;
+    color:rgb(255, 196, 0);
+    background-color: #000000;
+    text-align: center;
+}
+#d{
+    display: inline;
+    color:#ca6702;
+    background-color: #000000;
+}
+#pop{
+    display: inline;
+    color:#bb3e03;
+    background-color: rgb(0,0,0)
+}
+#ev{
+    display: inline;
+    color:#ae2012;
+    background-color: #000;
+}
+#dm{
+    display: inline;
+    color:#9b2226;
+    background-color: lightgrey;
+}
+#bs{
+    display: inline;
+    color:#5f0f40;
+    background-color: lightgray;
+}
+#tob{
+    display: inline;
+    color:#ff0a54;
+    background-color:black;
+}
+#ha{
+    display: inline;
+    color:#4361ee;
+    background-color: black;
+}
+.ib{
+    display: inline;
+    color:#40916c;
+    background-color: #000000;
+}
+.amb{
+    display: inline;
+    color:#6930c3;
+    background-color: #000000;
+}
+.afb{
+    display: inline;
+    color:#aacc00;
+    background-color: #000000;
+}
+#h{
+    display: inline;
+    color:#252422;
+    background-color:lightgreen ;
+}
+.d{
+    display: inline;
+    color:#f4a259;
+    background-color:darkblue ;
+}
+h3 span{
+    display: inline;
+    color:#db3a34;
+}
+#l{
+    display: inline;
+    color:#07c8f9;
+    background-color: black;
+}
+.rn{
+    display: inline;
+    color:#87a330;
+    background-color: black;
+}
+.i{
+    display: inline;
+    color:black;
+    background-color: #3da35d;
+}
+.b{
+    display: inline;
+    color:#ffd97d;
+    background-color: black;
+}
+#c{
+    display: inline;
+    color: yellow;
+    background-color: black;
+}
+section + h5{
+    color:#656d4a;
+}
