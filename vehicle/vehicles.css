@@ -32,8 +32,8 @@ li{
 }
 button{
     display:inline;
-    color: rgb(255, 0, 0);
-    background-color: rgb(237, 241, 248);
+    color: rgb(5, 167, 167);
+    background-color: white;
 }
 div{
     display: inline;
@@ -99,4 +99,8 @@ input[type="number"] {
 }
 input[type="email"] {
     color:#25a244;
+}
+button:hover{
+    color:rgb(255, 0, 0);
+    background-color: black;
 }
