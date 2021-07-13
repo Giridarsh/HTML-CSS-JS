@@ -88,6 +88,15 @@ section{
     color:#1d3557;
     background-color: #f1faee;
 }
-input,textarea{
+textarea{
     color:#ce0101
+}
+input[type="text"] {
+    color:magenta;
+}
+input[type="number"] {
+    color:#b06423;
+}
+input[type="email"] {
+    color:#25a244;
 }
