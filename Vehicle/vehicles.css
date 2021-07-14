@@ -1,0 +1,110 @@
+h1{
+    display: inline;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-weight:bold;
+    text-decoration: dotted underline green;
+    font-size:30px;
+    font-family:Arial;
+}
+p{
+    display: inline;
+    color: chocolate;
+    font-weight:normal;
+    background-color: rgb(237, 241, 248);
+    letter-spacing: 2px;
+}
+h2{
+    display: inline;
+    color: rgb(64, 131, 1);
+    background-color: rgb(237, 241, 248);
+    text-decoration: dotted underline blue;
+}
+h3{
+    display: inline;
+    color: blue;
+    background-color: rgb(237, 241, 248);
+}
+li{
+    display: inline;
+    color: rgb(0, 207, 138);
+    background-color: rgb(237, 241, 248);
+}
+button{
+    display:inline;
+    color: rgb(5, 167, 167);
+    background-color: white;
+}
+div{
+    display: inline;
+    color: rgb(5, 167, 167);
+}
+h4{
+    display: inline;
+    color:black;
+}
+footer{
+    display: inline;
+    color:rgb(252, 3, 3);
+}
+v{
+    color:#000000;
+    background-color:violet;
+}
+d{
+    color:#ffffff;
+    background-color:indigo;
+}
+e{
+    color:#000000;
+    background-color:blue;
+}
+f{
+    color:#ffffff;
+    background-color:green;
+}
+g{
+    color:#000;
+    background-color:yellow;
+}
+j{
+    color:#fff;
+    background-color:orange;
+}
+r{
+    color:#000;
+    background-color:rgb(255, 0, 0);
+}
+m{
+    color:#000000;
+    text-align: right;
+}
+section{
+    display: inline;
+    color:rgb(0, 0, 0);
+    border: 2px red;
+}
+#transport{
+    color:#1d3557;
+    background-color: #f1faee;
+}
+textarea{
+    color:#ce0101
+}
+input[type="text"] {
+    color:magenta;
+}
+input[type="number"] {
+    color:#b06423;
+}
+input[type="email"] {
+    color:#25a244;
+}
+button:hover{
+    color:rgb(255, 0, 0);
+    background-color: black;
+}
+button:active{
+    background-color: #25a244;
+    color:#000;
+}
