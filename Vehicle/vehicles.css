@@ -114,3 +114,18 @@ h2::first-letter{
     font-size: 40px;
     width: 280px;
 }
+.z{
+    color:rgb(0, 0, 0);
+    background-color: white;
+    letter-spacing: 0px;
+}
+p::selection{   
+    background-color: #000;
+}
+y{
+    color:rgb(0, 0, 0);
+}
+#t::selection{
+    color:solid red;
+    background-color: #000;
+}
