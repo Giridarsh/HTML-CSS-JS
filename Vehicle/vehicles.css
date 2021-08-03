@@ -6,7 +6,9 @@ h1{
     text-decoration: dotted underline green;
     font-size:30px;
     font-family:Arial;
-    
+    background-color: grey;
+    padding-left: 40px;
+    margin: 20px;
 }
 p{
     display: inline;
