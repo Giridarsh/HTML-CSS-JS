@@ -5,6 +5,10 @@ h1{
     font-weight:bold;
     text-decoration: dotted underline green;
     font-size:30px;
+    font-family:Arial;
+    background-color: grey;
+    padding-left: 40px;
+    margin: 20px;
 }
 p{
     display: inline;
@@ -14,10 +18,11 @@ p{
     letter-spacing: 2px;
 }
 h2{
-    display: inline;
+    display: block;
     color: rgb(64, 131, 1);
     background-color: rgb(237, 241, 248);
     text-decoration: dotted underline blue;
+    width: 280px;
 }
 h3{
     display: inline;
@@ -31,8 +36,8 @@ li{
 }
 button{
     display:inline;
-    color: rgb(255, 0, 0);
-    background-color: rgb(237, 241, 248);
+    color: rgb(5, 167, 167);
+    background-color: white;
 }
 div{
     display: inline;
@@ -46,7 +51,7 @@ footer{
     display: inline;
     color:rgb(252, 3, 3);
 }
-a{
+v{
     color:#000000;
     background-color:violet;
 }
@@ -75,11 +80,63 @@ r{
     background-color:rgb(255, 0, 0);
 }
 m{
-    color:#d1156d;
+    color:#000000;
     text-align: right;
 }
 section{
     display: inline;
     color:rgb(0, 0, 0);
     border: 2px red;
+}
+#transport{
+    color:#1d3557;
+    background-color: #f1faee;
+}
+textarea{
+    color:#ce0101
+}
+input[type="text"] {
+    color:magenta;
+}
+input[type="number"] {
+    color:#b06423;
+}
+input[type="email"] {
+    color:#25a244;
+}
+button:hover{
+    color:rgb(255, 0, 0);
+    background-color: black;
+}
+button:active{
+    background-color: #25a244;
+    color:#000;
+}
+h2::first-letter{
+    font-size: 40px;
+    width: 280px;
+}
+.z{
+    color:rgb(0, 0, 0);
+    background-color: white;
+    letter-spacing: 0px;
+}
+p::selection{   
+    background-color: #000;
+}
+y{
+    color:rgb(0, 0, 0);
+}
+#t::selection{
+    color:solid red;
+    background-color: #000;
+}
+.x{
+    color: magenta;
+}
+#w{
+    color:darkmagenta;
+}
+.q{
+    color:yellow;
 }
