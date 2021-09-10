@@ -1,0 +1,27 @@
+img{
+    width:400px;
+    height:400px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+nav{
+    text-align: left;
+    font-size:32px ;
+    margin-left: 20px;
+    padding: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+}
+h2{
+    text-align: left;
+    font-size:32px ;
+    margin-left: 20px;
+    padding: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
