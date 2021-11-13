@@ -1,0 +1,17 @@
+h1{
+    display:inline;
+    color:rgb(255, 102, 0);
+    background-color: rgb(88, 2, 2);
+}
+label{
+    color: rgb(3, 247, 247);
+    background-color: rgb(88, 2, 2);
+}
+p{
+    display:inline;
+    color: rgb(255, 251, 5);
+    background-color: rgb(88, 2, 2);
+}
+button{
+    color: rgb(255, 0, 0);
+}
